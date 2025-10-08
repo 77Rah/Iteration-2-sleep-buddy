@@ -1,0 +1,28 @@
+Food name,Vegan (Yes/No),Recommended age range,Total weight (g),Ingredients (g),Energy (kcal),Protein (g),Sugars (g),Dietary fibre (g),Calcium (mg),Iron (mg),Iodine (g),Sodium (mg),Potassium (mg),Magnesium (mg),Phosphorus (mg),Zinc (mg),Vitamin A (µg RAE),Vitamin C (mg),Vitamin D (µg),Source URL
+"Apple (raw, with skin)",Yes,3�?2 years,100,Apple 100 g,52,0.3,10.4,2.4,6,0.1,0.1,1,107,5,11,0,3,4.6,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/171688
+Banana (raw),Yes,3�?2 years,100,Banana 100 g,89,1.1,12.2,2.6,5,0.3,0,1,358,27,22,0.2,3,8.7,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/173944
+Orange (raw),Yes,3�?2 years,100,Orange 100 g,47,0.9,9.4,2.4,40,0.1,1,0,181,10,14,0.1,11,53.2,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/169098
+Strawberries (raw),Yes,3�?2 years,100,Strawberries 100 g,32,0.7,4.9,2,16,0.4,0,1,153,13,24,0.1,1,58.8,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1102653
+Carrot (raw),Yes,3�?2 years,100,Carrot 100 g,41,0.9,4.7,2.8,33,0.3,0.5,69,320,12,35,0.2,835,5.9,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/170393
+Broccoli (raw),Yes,3�?2 years,100,Broccoli 100 g,34,2.8,1.7,2.6,47,0.7,0.5,33,316,21,66,0.4,31,89.2,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1102986
+Spinach (raw),Yes,3�?2 years,100,Spinach 100 g,23,2.9,0.4,2.2,99,2.7,1,79,558,79,49,0.5,469,28.1,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/168462
+Whole-wheat bread,Yes,3�?2 years,100,Whole-wheat bread 100 g,247,12.5,6,6.7,107,3.6,45,430,340,91,300,1.9,0,0,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/2518135
+"Sweet potato (orange, raw)",Yes,3�?2 years,100,Sweet potato 100 g,86,1.6,4.2,3,30,0.6,2,55,337,25,47,0.3,709,2.4,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/169106
+Cow’s milk (2%),No,3�?2 years,100,Milk 2% 100 g,50,3.4,5,0,120,0,35,46,150,10,95,0.4,37,0,1.2,https://fdc.nal.usda.gov/fdc-app.html#/food-details/171705
+"Yogurt (plain, low-fat)",No,3�?2 years,100,Yogurt 100 g,63,5.3,7,0,183,0.1,30,70,234,17,144,0.9,14,0.8,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1104067
+Cheddar cheese,No,3�?2 years,100,Cheddar cheese 100 g,403,24.9,0.1,0,721,0.7,48,621,98,28,512,3.5,265,0,0.1,https://fdc.nal.usda.gov/fdc-app.html#/food-details/171251
+Egg (boiled),No,3�?2 years,100,Egg (boiled) 100 g,155,13,0.3,0,50,1.2,50,142,126,10,172,1.3,160,0,2,https://fdc.nal.usda.gov/fdc-app.html#/food-details/173430
+Chicken breast (cooked),No,3�?2 years,100,Chicken breast 100 g,165,31,0,0,15,1,4,74,256,29,220,1,13,0,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/171412
+"Lean beef (cooked, 90% lean)",No,3�?2 years,100,Lean ground beef 100 g,217,26,0,0,18,2.6,8,76,318,20,187,6,0,0,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/2342824
+Salmon (baked),No,3�?2 years,100,Salmon (cooked) 100 g,208,22.1,0,0,12,0.8,16.5,60,384,29,252,0.6,50,0,10,https://fdc.nal.usda.gov/fdc-app.html#/food-details/171978
+"Tuna (canned in water, drained)",No,3�?2 years,100,Canned tuna 100 g,116,25.5,0,0,10,1.3,10,50,237,34,208,0.9,18,0,2.3,https://fdc.nal.usda.gov/fdc-app.html#/food-details/173686
+"Tofu (firm, calcium-set)",Yes,3�?2 years,100,Tofu 100 g,76,8.1,0.3,0.5,350,5.4,0,7,121,37,97,1,0,0,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/174273
+Lentils (boiled),Yes,3�?2 years,100,Cooked lentils 100 g,116,9,0.2,7.9,19,3.3,0,2,369,36,180,1.3,0,1.5,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/174272
+Hummus (plain),Yes,3�?2 years,100,Cooked chickpeas 60 g; Tahini 10 g; Olive oil 5 g; Water 25 g,177,4.9,0.3,6,49,2.4,0,379,228,29,166,1.2,5,0,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/171320
+Fortified oat cereal (ready-to-eat),Yes,3�?2 years,100,Fortified oat cereal 100 g,376,12.1,4.4,9.4,401,33.2,0,497,641,114,481,17,990,22,3.4,https://fdc.nal.usda.gov/fdc-app.html#/food-details/1102632
+Brown rice (cooked),Yes,3�?2 years,100,Cooked brown rice 100 g,111,2.6,0.4,23,1.8,0.4,0,5,86,39,103,0.8,0,0,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/171747
+Whole-wheat spaghetti with tomato–lentil sauce,Yes,4�?2 years,200,Cooked whole‑wheat spaghetti 120 g; Cooked lentils 60 g; Tomato sauce 20 g,160,6.8,3.5,27,5,2,0,120,220,55,150,1.5,35,8,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/2341214
+Chicken & vegetable stir‑fry (noodles omitted),No,5�?2 years,180,Chicken breast 80 g; Mixed vegetables 90 g; Canola oil 5 g; Soy sauce 5 g,130,12,3,6,3,0.9,2,290,320,30,140,0.8,50,25,0,https://fdc.nal.usda.gov/fdc-app.html#/
+"Vegetable bacon pizza (slice, composite est.)",No,5�?2 years,125,Pizza crust 70 g; Tomato sauce 25 g; Mozzarella 25 g; Mixed veg 20 g; Bacon 10 g,230,10,2.5,26,2.5,1.8,5,520,210,35,200,1.2,120,3,0.1,https://fdc.nal.usda.gov/
+Fruit salad (mixed),Yes,3�?2 years,150,Watermelon 60 g; Blueberries 40 g; Strawberries 30 g; Kiwi 20 g,45,0.8,8.8,2,12,0.3,0,5,180,16,24,0.2,35,40,0,https://fdc.nal.usda.gov/
+Tofu–veggie noodle bowl (noodles optional),Yes,5�?2 years,220,Firm tofu 100 g; Bok choy 60 g; Carrot 40 g; Soy sauce 10 g; Sesame oil 10 g,140,10,3,6,3.5,2.5,2,420,340,50,180,1.6,120,20,0,https://fdc.nal.usda.gov/fdc-app.html#/food-details/174273
